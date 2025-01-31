@@ -324,6 +324,14 @@ header{
       transition: all 0.3s;
 
     }
+
+    .d-flex h3{
+      display: flex;
+      justify-content: space-between;
+      padding: 0px 40px 0px 40px;
+      /* text-decoration: underline; */
+      color: #002366;
+    }
     
 
   
